@@ -1,0 +1,16 @@
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.csproj.ResolveComReference.cache
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.Form1.resources
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.Properties.Resources.resources
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.csproj.GenerateResource.cache
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.csproj.CoreCompileInputs.cache
+D:\Users\Dylan\source\repos\ShinEtuDevTest\bin\Debug\ShinEtuDevTest.exe.config
+D:\Users\Dylan\source\repos\ShinEtuDevTest\bin\Debug\ShinEtuDevTest.exe
+D:\Users\Dylan\source\repos\ShinEtuDevTest\bin\Debug\ShinEtuDevTest.pdb
+D:\Users\Dylan\source\repos\ShinEtuDevTest\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Users\Dylan\source\repos\ShinEtuDevTest\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.csproj.CopyComplete
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.exe
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.pdb
+D:\Users\Dylan\source\repos\ShinEtuDevTest\bin\Debug\OpenXmlPowerTools.dll
+D:\Users\Dylan\source\repos\ShinEtuDevTest\bin\Debug\System.Management.Automation.dll
+D:\Users\Dylan\source\repos\ShinEtuDevTest\obj\Debug\ShinEtuDevTest.csproj.AssemblyReference.cache

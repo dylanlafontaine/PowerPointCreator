@@ -1,0 +1,16 @@
+D:\Users\Dylan\source\repos\PowerPointCreator\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Users\Dylan\source\repos\PowerPointCreator\bin\Debug\OpenXmlPowerTools.dll
+D:\Users\Dylan\source\repos\PowerPointCreator\bin\Debug\System.Management.Automation.dll
+D:\Users\Dylan\source\repos\PowerPointCreator\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.csproj.AssemblyReference.cache
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.csproj.ResolveComReference.cache
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.csproj.GenerateResource.cache
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.csproj.CoreCompileInputs.cache
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.csproj.CopyComplete
+D:\Users\Dylan\source\repos\PowerPointCreator\bin\Debug\PowerPointCreator.exe.config
+D:\Users\Dylan\source\repos\PowerPointCreator\bin\Debug\PowerPointCreator.exe
+D:\Users\Dylan\source\repos\PowerPointCreator\bin\Debug\PowerPointCreator.pdb
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.Form1.resources
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.Properties.Resources.resources
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.exe
+D:\Users\Dylan\source\repos\PowerPointCreator\obj\Debug\PowerPointCreator.pdb
